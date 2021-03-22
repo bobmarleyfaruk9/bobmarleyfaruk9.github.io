@@ -1,8 +1,8 @@
-Origin: Samg_is_a_Ninja's Repo
-Label: Samg_is_a_Ninja's Repo
+Origin: Huseyin's Private Repo
+Label: Huseyin's Private Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Samg_is_a_Ninja repo: open-source, free tweak releases
+Description: Huseyin's private repo (a place where I keep my working/non-working/partially working tweaks and main tweaks in case I restore rootfs)
